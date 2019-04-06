@@ -1,0 +1,89 @@
+
+.navbar{
+    position: absolute;
+    z-index: 1;
+    top:0;
+}
+.nav-link{
+    color:rgb(236, 9, 9);
+    font-weight: 600;
+    font-size: 1.1vw;
+}
+
+.home-content{
+    position: absolute;
+    top:40%;
+    color:rgb(255, 255, 255);
+    left: 10%;
+}
+
+.F-1{
+    background: url("/images/street-art-montreal-cr-alamy.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.special{
+    padding: 10%;
+}
+
+.btn-insta{
+    border-radius: 100px;
+    border: 1 px solid white;
+    color:white;
+}
+.insta-content{
+    padding:10% 10% 0 10%;
+}
+
+
+.T-1{
+    background-image: url("/images/DvYO9x.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.fourth-g-img{
+    float: right;
+    width:70%;
+    height: 70%;
+    margin-right: -2.8%;;
+    
+}
+
+.over-card{
+    position: absolute;
+    left:33%;
+    width:19%;
+    padding: 2%;
+    background-color: rgba(54, 49, 49, 0.966);
+}
+.head{
+    color:green;
+    background-color: rgba(54, 49, 49, 0.966);
+   
+}
+.para{
+    background-color: rgba(54, 49, 49, 0.966);
+    color:white;
+
+}
+.spotify-content{
+    padding: 8%;
+    background-color: green;
+    /* height: 50%; */
+}
+.itune{
+    padding: 8%;
+    background-color: rgb(37, 39, 37);
+    /* height: 50%; */
+}
+
+.search{
+    padding: 2%;
+    width:70%;
+}
+.footer{
+    padding:5%;
+}
